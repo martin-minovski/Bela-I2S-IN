@@ -1,4 +1,4 @@
-## This project uses the second PRU of the Beaglebone Black to read a 44kHz I2S stream and mix it with Bela's analog audio
+## This project uses the second PRU of the Beaglebone Black to read a 16-bit 44kHz I2S stream and mix it with Bela's analog audio
 
 #### Tested on Beaglebone Black Wireless
 
